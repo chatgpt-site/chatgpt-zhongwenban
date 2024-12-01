@@ -1,5 +1,8 @@
 # ChatGPT中文版镜像网站整理汇总-免翻支持ChatGPT4o，o1
 
+> 在这里汇总整理了多个国内ChatGPT中文版镜像网站，帮助用户在正常网络下也能访问ChatGPT。
+> 2024/12/01
+
 ## 国内ChatGPT中文版镜像资源
 
 - [https://www.yixiaai.com/](https://www.yixiaai.com/) - 支持 GPT4、4o 以及 o1，支持 MJ 绘画
